@@ -63,7 +63,6 @@ html {
         background-image: url("img/gradient.png");
         background-repeat:no-repeat;
         background-position: -80px -40px;
-    
     }
     .i1 {
         width: 115px;
@@ -1036,6 +1035,8 @@ html {
         font-weight: 500;
         line-height: 24px; /* 150% */
         margin: 0px 0px 15px 23.2px;
+        background: #07070A;
+        border: none;
     }
     .p1-s7 {
         color: var(--White, #FFF);
@@ -1045,6 +1046,8 @@ html {
         font-weight: 500;
         line-height: 24px; /* 150% */
         margin: 38px 0px 0px 23.2px;
+        background: #07070A;
+        border: none;
     }
     .ssw {
         display: flex;
@@ -2384,6 +2387,8 @@ html {
         font-weight: 500;
         line-height: 24px; /* 150% */
         margin: 0px 0px 15px 23.2px;
+        background: #07070A;
+        border: none;
     }
     .p1-s7 {
         color: var(--White, #FFF);
@@ -2393,6 +2398,8 @@ html {
         font-weight: 500;
         line-height: 24px; /* 150% */
         margin: 15px 0px 0px 24px;
+        background: #07070A;
+        border: none;
     }
     .ssw {
         display: flex;
